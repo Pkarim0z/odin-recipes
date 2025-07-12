@@ -1,3 +1,3 @@
 # my recipes project
 
-I'm learning html in this level of the odin projects curriculum 
+This curriculum shows the basic of html and how it works.
